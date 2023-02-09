@@ -10,8 +10,8 @@ const Button = (props) => {
 }
 
 Button.defaultProps = {
-    color : 'pink',
-    text : 'Hello',
+    color : 'green',
+    text : 'Add',
 }
 
 Button.propTypes = {
